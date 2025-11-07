@@ -47,9 +47,13 @@ Eğer sadece oyunu oynamak istiyorsanız, derlenmiş `.EXE` dosyasını kullanab
     ```dos
     C:
     ```
-6.  Oyunu çalıştırın:
+6.  Ondan sonrada sırasoyla şu adımları yapın:
     ```dos
-    PONG.EXE
+    masm /a pong.asm
+    3 kez Enterra bas
+    link pong 
+    ;
+    pong
     ```
 
 ### 2. Yöntem: Kaynaktan Derleme (Geliştiriciler İçin)
@@ -72,7 +76,7 @@ Eğer kodu kendiniz derlemek isterseniz:
 
 ## 📁 İndirme Linkleri
 
-* **Oyun (.EXE):** **[Doğrudan İndirme Linki İçin Buraya Tıklayın (Releases)]**
+* **Oyun (.EXE):** **[https://github.com/Arda-ctrl/Assembly-Pong/releases/download/v1.0/PONG.EXE]**
 * **Gerekli Emülatör:** **[https://www.dosbox-staging.org/releases/windows/]**
 
 <br>
