@@ -74,6 +74,12 @@ Eğer kodu kendiniz derlemek isterseniz:
 
 <br>
 
+### 3. Ders İçin Yapılmış Slayt Linki
+
+* **Mikroişlemci Proje Sunumu:** **[https://docs.google.com/presentation/d/1TS__NRF2tZkqJf0Nxnq9BwXnHVhNsbglFZTAsqx6IMI/edit?usp=sharing]
+
+<br>
+
 ## 📁 İndirme Linkleri
 
 * **Oyun (.EXE):** **[https://github.com/Arda-ctrl/Assembly-Pong/releases/download/v1.0/PONG.EXE]**
@@ -81,9 +87,7 @@ Eğer kodu kendiniz derlemek isterseniz:
 
 <br>
 
-### 3. Ders İçin Yapılmış Slayt Linki
 
-* **Mikroişlemci Proje Sunumu:** **[https://docs.google.com/presentation/d/1TS__NRF2tZkqJf0Nxnq9BwXnHVhNsbglFZTAsqx6IMI/edit?usp=sharing]
 
 ## 📄 Lisans
 
