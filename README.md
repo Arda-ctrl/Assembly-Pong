@@ -81,6 +81,10 @@ Eğer kodu kendiniz derlemek isterseniz:
 
 <br>
 
+### 3. Ders İçin Yapılmış Slayt Linki
+
+* **Mikroişlemci Proje Sunumu:** **[https://docs.google.com/presentation/d/1TS__NRF2tZkqJf0Nxnq9BwXnHVhNsbglFZTAsqx6IMI/edit?usp=sharing]
+
 ## 📄 Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır.
